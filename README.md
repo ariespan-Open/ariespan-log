@@ -30,5 +30,6 @@
 ####2022.5.20
 > 更新mokee文件夹，同步最新mokee100每夜版与mokee90 release
 > 增加addonsu
+> 增加几个友链（link）
 # 展望未来
 > 没有未来
