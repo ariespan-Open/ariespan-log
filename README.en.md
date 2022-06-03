@@ -29,7 +29,7 @@ This repository is used to store the maintenance logs of the Xiaomi Mi 2s flashi
 #### 2022.5.20
 > Update the mokee folder, sync the latest mokee100 nightly version with the mokee90 release
 > add addonsu
-> Add a few friend cs (link)
+> Add a few frien(link)
 #### 2022.5.27
 > Add viqoo toolbox
 > Other changes
