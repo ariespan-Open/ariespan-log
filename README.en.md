@@ -35,7 +35,7 @@ This repository is used to store the maintenance logs of the Xiaomi Mi 2s flashi
 > Other changes
 #### 2022.5.28-31
 > The alternate station can be accessed normally and replace the ssl certificate
-> Added the second standby station (vercel)
+> Added the second standby station (runs with vercel)
 > Alternate station theme changed to renexmoe-mod-fixversion
 #### 2022.6.1-6.4
 > The site name was changed to "Miscellaneous Street Stalls" (tentative)
