@@ -40,6 +40,6 @@ This repository is used to store the maintenance logs of the Xiaomi Mi 2s flashi
 #### 2022.6.1-6.4
 > The site name was changed to "Miscellaneous Street Stalls" (tentative)
 > Added Redmi note 5 resources (not yet collected/transported)
-> Added crash for windows
+> Added crash for windows zh-cn versio
 # Looking to the future
 > no future
