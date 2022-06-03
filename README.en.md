@@ -1,36 +1,45 @@
 # ariespan.cn-log
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+#### Introduction
+This repository is used to store the maintenance logs of the Xiaomi Mi 2s flashing resource download station (ariespan.cn) and the backup station (shunt.ariespan.xyz) from May 2022 to the present
 
-#### Software Architecture
-Software architecture description
+#### How do download site administrators submit your changelog to this repository?
 
-#### Installation
+1. Fork this repository
+2. Submit the code
+3. Create a new Pull Request
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+##Maintenance log text
+#### 2022.5.9-2022.5.10
+1. Master
+> Theme change
+>Server php version changed to 7.4
 
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+2. Standby station
+> ~~Upstream maintenance, inaccessible~~
+> Ended at noon on 5.10
+#### 2022.5.11
+> K2P area Lao Maozi padavan mobile phone management software added the latest version of Aurora routing
+> Lsposd synchronously moves the latest stable version and archives the old version
+#### 2022.5.13
+> Improve website stability
+> Optimize website fluency
+#### 2022.5.15
+> Updated renexmoe-tw527e-edtiion theme version
+#### 2022.5.20
+> Update the mokee folder, sync the latest mokee100 nightly version with the mokee90 release
+> add addonsu
+> Add a few friend chains (link)
+#### 2022.5.27
+> Add viqoo toolbox
+> Other changes
+#### 2022.5.28-31
+> The alternate station can be accessed normally and replace the ssl certificate
+> Added the second standby station (vercel)
+> Alternate station theme changed to renexmoe-mod-fixversion
+#### 2022.6.1-6.4
+> The site name was changed to "Miscellaneous Street Stalls" (tentative)
+> Added Redmi note 5 resources (not yet collected/transported)
+> Added crash for windows
+# Looking to the future
+> no future
