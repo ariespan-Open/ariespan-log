@@ -1,6 +1,6 @@
 # ariespan.cn-log
 
-#### 介绍
+#### 简介
 本仓库用于存放在2022年5月开始至今的小米2s刷机资源下载站（ariespan.cn）与备用站(shunt.ariespan.xyz)的维护日志
 
 #### 参与贡献
