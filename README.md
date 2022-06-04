@@ -39,7 +39,8 @@
 > 备用站主题更改为renexmoe-mod-fixversion
 #### 2022.6.1-6.4
 > 站点名称更名为“杂七杂八的地摊”（暂定）
-> 新增Redmi note 5资源 (暂未收集/搬运完成）
+> 新增Redmi note 5资源 (搬运完成）
 > 新增clash for windows
+> 已将群文件(786472871)内Redmi note 5资源搬运至下载站
 # 展望未来
 > 没有未来
