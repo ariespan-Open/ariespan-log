@@ -40,8 +40,8 @@ This repository is used to store the maintenance logs of the ariespan.cn and the
 #### 2022.6.1-6.4
 > The site name was changed to "Miscellaneous Street Stalls" (tentative)
 > Added Redmi note 5 resources (not yet collected/transported)
-> Added crash for windows zh-cn version
+> Added clash for windows zh-cn version
 #### 2022.6.7
-> added crdroid7 and crdroid8(unofficial) mokee100 rom of whyred
+> Added crdroid7 and crdroid8(unofficial) mokee100 rom of whyred
 # Looking to the future
 > no future
