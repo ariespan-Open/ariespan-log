@@ -1,7 +1,7 @@
 # ariespan.cn-log
 
 #### Introduction
-This repository is used to store the maintenance logs of the Xiaomi Mi 2s flashing resource download station (ariespan.cn) and the backup station (shunt.ariespan.xyz) from May 2022 to the present
+This repository is used to store the maintenance logs of the ariespan.cn and the backup station (shunt.ariespan.xyz) from May 2022 to the present
 
 #### How do download site administrators submit your changelog to this repository?
 
