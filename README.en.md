@@ -39,7 +39,7 @@ This repository is used to store the maintenance logs of the ariespan.cn and the
 > Alternate station theme changed to renexmoe-mod-fixversion
 #### 2022.6.1-6.4
 > The site name was changed to "Miscellaneous Street Stalls" (tentative)
-> Added Redmi note 5 resources (not yet collected/transported)
+> Added Redmi note 5 resources
 > Added clash for windows zh-cn version
 #### 2022.6.7
 > Added crdroid7 and crdroid8(unofficial) mokee100 night rom of whyred
