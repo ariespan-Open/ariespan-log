@@ -1,0 +1,217 @@
+[33mcommit 22c1ec94a9db5bb70eded452b045dd7084e62bcf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Tue Jun 7 20:17:02 2022 +0800
+
+    Update Whyed Rom
+    
+    新增搬运whyred的Crdroid7与8(Unofficial) 、Mokee100刷机包
+
+[33mcommit 50bd41ded2b6de5a6e10fc3b71ca0b85af2f61a0[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Tue Jun 7 11:02:12 2022 +0800
+
+    优化网站稳定性，提高网站流畅度
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+
+[33mcommit e62f6b82064af79fa911add37a7c60af38d9ab03[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Tue Jun 7 10:39:56 2022 +0800
+
+    Update README.en.md
+
+[33mcommit 48380f2e4d492e89c918578922c1ff54fabc146f[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Sun Jun 5 21:08:50 2022 +0800
+
+    Sitename rename!
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+    Signed-off-by: Dedicatus5457 <houqiyao@outlook.in>
+
+[33mcommit 8fbed477510842642725bacb23681fec0b5a1724[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Sun Jun 5 20:21:35 2022 +0800
+
+    提高网站稳定性 ，优化网站流畅度。
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+
+[33mcommit 4139b36cb55870193c0c35bd89a64b24322a0bda[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Sun Jun 5 04:33:40 2022 +0800
+
+    Change license
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+
+[33mcommit 2f24c39df303e6305145e7dab3fa87207757ce95[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Sun Jun 5 04:19:49 2022 +0800
+
+    Update README.md
+    
+    Signed-off-by: laimou0 <laimousen666@163.com>
+
+[33mcommit f8294899fd3659b8868b54356d80d165347db493[m
+Author: laimou0 <96370758+laimou0@users.noreply.github.com>
+Date:   Sat Jun 4 08:13:25 2022 +0800
+
+    Update README.md
+
+[33mcommit 4dcc6cb742c2fe9436dbe956e0025348bb9cd881[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Sat Jun 4 00:01:33 2022 +0800
+
+    Create English maintenance log (#1)
+    
+    * Create English maintenance log
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+    
+    * Update README.en.md
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+    
+    * Update README.en.md
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+    
+    * Update README.en.md
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+    
+    * Update README.en.md
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+    
+    * Update README.en.md
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+    
+    * Update README.en.md
+    
+    * Update README.en.md
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+
+[33mcommit 4f90d23bf16864c29fb8335b83c56ff2ecd4cba9[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Fri Jun 3 23:35:22 2022 +0800
+
+    update log
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+
+[33mcommit ca65725b548facf9ad4adfe7443f3bed636b04c7[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Fri Jun 3 23:05:14 2022 +0800
+
+    update log
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+
+[33mcommit 1b611c86d878549e7a92e508121b7eb68376fd64[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Fri Jun 3 22:10:29 2022 +0800
+
+    Update maintenance log
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+
+[33mcommit b1226f664ba5af5984416cc87dc9e7e4aaa971f9[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Fri Jun 3 22:08:09 2022 +0800
+
+    Update maintenance log
+    
+    Co-authored-by: laimou0 <laimousen666@163.com>
+    Co-authored-by: majinqiawa <majinqiawa@users.norreply.github.com>
+
+[33mcommit 7a54aee35deec95ee85f9259af8652bd0a5b50b6[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Fri Jun 3 21:52:15 2022 +0800
+
+    Update maintenance log
+    
+    Co-authored-by: laimou01 <laimousen666@163.com>
+
+[33mcommit 97c247b463c0227a29bdfa6b725059ca4a80db8f[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Tue May 31 20:18:47 2022 +0800
+
+    Create LICENSE
+
+[33mcommit 86cb543ab3db37a99268f6f704302e9c019c06fe[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Tue May 31 17:03:27 2022 +0800
+
+    Update README.md
+
+[33mcommit b49b2a8968fbc9ff3a79dabeeb4b7bca3a9bb939[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Fri May 27 00:12:15 2022 +0800
+
+    Update README.md
+
+[33mcommit 81b3ca156dd728355fcfa07ae7fba558f938db0f[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Thu May 26 23:51:33 2022 +0800
+
+    Update README.md
+
+[33mcommit 99b5db35b34c91eb4d43c857f770e36c0f2d6915[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Fri May 20 19:51:08 2022 +0800
+
+    Update README.md
+    
+    null
+
+[33mcommit 55736fe49c6faf5d9ebdbb7f9626f76697352f5e[m
+Author: Shirai Kuroko <houqiyao@outlook.in>
+Date:   Fri May 20 19:50:38 2022 +0800
+
+    Update README.md
+
+[33mcommit fdc3bf7a8f41b3bf0d890abcc64f54c2df646720[m
+Author: Shirai Kuroko <houqiyao@ariespan.xyz>
+Date:   Sun May 15 20:41:14 2022 +0800
+
+    Update README.md
+
+[33mcommit 61932c11a57082b2d0810eb9ebaed5779a616820[m
+Author: Shirai Kuroko <houqiyao@ariespan.xyz>
+Date:   Fri May 13 11:44:46 2022 +0800
+
+    Update README.md
+
+[33mcommit a8acde777e0b8a5cad6310fa5cd6384d575b2de8[m
+Author: Shirai Kuroko <houqiyao@ariespan.xyz>
+Date:   Wed May 11 11:55:36 2022 +0800
+
+    update log
+
+[33mcommit 850d487e3e60f2e4273f29db7ce855e22fa60599[m
+Author: Shirai Kuroko <rrdyt2008@yeah.net>
+Date:   Wed May 11 10:00:26 2022 +0800
+
+    Add files via upload
+
+[33mcommit 82f723610fec60e7be5176e3b4814bd0ddc85b59[m
+Author: Shirai Kuroko <rrdyt2008@yeah.net>
+Date:   Wed May 11 09:59:53 2022 +0800
+
+    Add files via upload
+
+[33mcommit c2622c87ef7059578d410872ae09b4206edf2610[m
+Author: Shirai Kuroko <rrdyt2008@yeah.net>
+Date:   Wed May 11 09:59:05 2022 +0800
+
+    Add files via upload
+
+[33mcommit 96354c11b54ff9eeda13cee2b0daab0d45f3b8f5[m
+Author: Shirai Kuroko <rrdyt2008@yeah.net>
+Date:   Wed May 11 09:58:10 2022 +0800
+
+    Initial commit
