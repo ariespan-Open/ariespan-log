@@ -42,6 +42,6 @@ This repository is used to store the maintenance logs of the ariespan.cn and the
 > Added Redmi note 5 resources (not yet collected/transported)
 > Added clash for windows zh-cn version
 #### 2022.6.7
-> Added crdroid7 and crdroid8(unofficial) mokee100 rom of whyred
+> Added crdroid7 and crdroid8(unofficial) mokee100 night rom of whyred
 # Looking to the future
 > no future
