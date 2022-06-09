@@ -47,5 +47,7 @@
 #### 2022.6.7
 > 新增搬运whyred的Crdroid7与8(Unofficial) Mokee100刷机包
 > 优化网站稳定性，提高网站流畅度
+#### 2022.6.10
+> 重新启用cloudflare代理网站所有流量和dns解析（备用站与二号备用站暂不启用cloudflare）
 # 展望未来
 > 没有未来
