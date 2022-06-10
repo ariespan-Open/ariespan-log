@@ -49,5 +49,6 @@
 > 优化网站稳定性，提高网站流畅度
 #### 2022.6.10
 > 重新启用cloudflare代理网站所有流量和dns解析（备用站与二号备用站暂不启用cloudflare）
+> Fastly jsd cdn在中国大陆部分地区仍被污染，全站弃用fastly cdn更换为unpkg cdn
 # 展望未来
 > 没有未来
