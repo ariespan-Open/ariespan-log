@@ -46,6 +46,6 @@ This repository is used to store the maintenance logs of the ariespan.cn and the
 #### 2022.6.10
 Re-enable all traffic and dns resolution of the cloudflare proxy website (cloudflare is not enabled for the standby site and the second standby site) Fastly jsd cdn is still polluted in some parts of mainland China, and the whole site has abandoned fastly cdn and replaced it with unpkg cdn
 ### 2022.6.11
-Create a new k50p folder and put a bunch of k50p things. Add coolpad cool1 resources (in progress/completed)
+Create a new k50p folder and put a bunch of k50p things. Added coolpad cool1 resources (in progress/completed)
 # Looking to the future
 > no future
