@@ -52,5 +52,6 @@
 > Fastly jsd cdn在中国大陆部分地区仍被污染，全站弃用fastly cdn更换为unpkg cdn
 #### 2022.6.11
 > 新建k50p文件夹，放一堆k50p的东西
+> 新增coolpad cool1资源（正在搬运/搬运完成）
 # 展望未来
 > 没有未来
