@@ -51,6 +51,5 @@
 > 重新启用cloudflare代理网站所有流量和dns解析（备用站与二号备用站暂不启用cloudflare）
 > Fastly jsd cdn在中国大陆部分地区仍被污染，全站弃用fastly cdn更换为unpkg cdn
 #### 2022.6.11
-> 新建k50p文件夹，放一堆k50p的东西
 # 展望未来
 > 没有未来
