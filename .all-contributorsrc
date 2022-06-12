@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "majinqiawa",
+      "name": "majinqi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91373993?v=4",
+      "profile": "http://www.yhsdcmd.cn",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
