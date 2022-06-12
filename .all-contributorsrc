@@ -26,6 +26,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "Dedicatus5457",
+      "name": "Dedicatus5457",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78254776?v=4",
+      "profile": "https://github.com/Dedicatus5457",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
