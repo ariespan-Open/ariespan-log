@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "laimou01",
+      "name": "laimou01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96370758?v=4",
+      "profile": "https://github.com/laimou01",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ariespan-log",
+  "projectOwner": "ariespan-Open",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
