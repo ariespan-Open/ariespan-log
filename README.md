@@ -1,4 +1,7 @@
 # ariespan.cn-log
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 #### 简介
 本仓库用于存放在2022年5月开始至今的ariespan.cn与备用站(shunt.ariespan.xyz)的维护日志
@@ -57,3 +60,23 @@
 > 二号备用站迁移到replit（PaaS)，目录程序使用alist，配置文件等链接使用db4free mysql数据库存储
 # 展望未来
 > 没有未来
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/laimou01"><img src="https://avatars.githubusercontent.com/u/96370758?v=4?s=100" width="100px;" alt=""/><br /><sub><b>laimou01</b></sub></a><br /><a href="#infra-laimou01" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ariespan-Open/ariespan-log/commits?author=laimou01" title="Tests">⚠️</a> <a href="https://github.com/ariespan-Open/ariespan-log/commits?author=laimou01" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
