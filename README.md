@@ -58,6 +58,8 @@
 > 新增coolpad cool1资源（正在搬运/搬运完成）
 #### 2022.6.12
 > 二号备用站迁移到replit（PaaS)，目录程序使用alist，配置文件等链接使用db4free mysql数据库存储
+#### 2022.6.16
+> 因国内移动网络cloudflare cdn相关节点丢包严重，主站暂停使用cloudflare cdn
 # 展望未来
 > 没有未来
 
