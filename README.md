@@ -62,6 +62,8 @@
 > 因国内移动网络cloudflare cdn相关节点丢包严重，主站暂停使用cloudflare cdn
 #### 2022.6.17-6.18
 > 主站添加评论区（valine）
+#### 2022.6.19
+> 将“Off topic”文件夹重命名为"other"
 # 展望未来
 > 没有未来
 
