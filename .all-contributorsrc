@@ -35,7 +35,8 @@
       "contributions": [
         "infra",
         "test",
-        "code"
+        "code",
+        "projectManagement"
       ]
     }
   ],
