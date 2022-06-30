@@ -78,6 +78,8 @@
 #### 2022.6.29
 > 评论区重建：弃用valine，改用waline。由LeanCloud和Vercel提供后端数据库和服务端等服务
 > 添加Magisk Debug版本
+#### 2022.6.30
+> 主站主题更改为renexmoe-mod
 # 展望未来
 > 没有未来
 
