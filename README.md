@@ -80,6 +80,8 @@
 > 添加Magisk Debug版本
 #### 2022.6.30
 > 主站主题更改为renexmoe-mod
+#### 2022.7.6
+> 更改域名解析dns服务器为 dns1.hichina.com,dns2.hichina.com
 # 展望未来
 > 没有未来
 
