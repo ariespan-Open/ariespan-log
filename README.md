@@ -82,6 +82,9 @@
 > 主站主题更改为renexmoe-mod
 #### 2022.7.6
 > 更改域名解析dns服务器为 dns1.hichina.com,dns2.hichina.com
+#### 2022.7.7
+> 添加log.ariespan.cn存放log，运行在Github pages上。log.ariespan.cn是Github仓库的镜像方便国内用户查看。
+> 更改站点readme.md的帮助/反馈邮箱为support@ariespan.cn
 # 展望未来
 > 没有未来
 
