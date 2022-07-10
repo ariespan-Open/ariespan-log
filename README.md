@@ -85,6 +85,9 @@
 #### 2022.7.7
 > 添加log.ariespan.cn存放log，运行在Github pages上。log.ariespan.cn是Github仓库的镜像方便国内用户查看。
 > 更改站点readme.md的帮助/反馈邮箱为support@ariespan.cn
+#### 2022.7.10
+> 同步更新renexmoe-tw527e-edtion主题到1.2.4
+> 更改主站主题为renexmoe-tw527e-edtion
 # 展望未来
 > 没有未来
 
