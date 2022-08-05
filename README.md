@@ -97,6 +97,11 @@
 > 新增Windows工具箱，用来存储一些小工具
 #### 2022.7.19
 > 在xiaomi 6(sagit) 文件夹中新增上传MIUI超级壁纸apk
+#### 2022.7.31-8.5
+> 新增使用cloudflare wrokers反代主站onedrive下载源的cf.ariespan.cn分站，尝试解决我国大陆某些地区od global直连速度不佳的问题。
+> 将下载站状态监测站使用的uptime-status程序升级到v2.0版本。
+> 监测站新增监控cf.ariespan.cn。
+> 下载站顶级域名和所有二级域名统一更换使用let's encrypt的通配符证书
 # 展望未来
 > 没有未来
 
