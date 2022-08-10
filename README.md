@@ -102,6 +102,9 @@
 > 将下载站状态监测站使用的uptime-status程序升级到v2.0版本。
 > 监测站新增监控cf.ariespan.cn。
 > 下载站顶级域名和所有二级域名统一更换使用let's encrypt的通配符证书
+> 监控站更换域名为status.ariespan.cn
+#### 2022.8.10
+> 计划主站debug.ariespan.cn更换目录程序为alist弃用OneManager。待调试完毕视情况上ariespan.cn主站生产环境。
 # 展望未来
 > 没有未来
 
