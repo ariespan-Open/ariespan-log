@@ -38,6 +38,16 @@
         "code",
         "projectManagement"
       ]
+    },
+    {
+      "login": "CHNBUILD",
+      "name": "某people",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42291033?v=4",
+      "profile": "https://github.com/CHNBUILD",
+      "contributions": [
+        "content",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,

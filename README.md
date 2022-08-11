@@ -1,6 +1,6 @@
 # ariespan.cn-log
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 #### 简介
@@ -120,6 +120,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/laimou01"><img src="https://avatars.githubusercontent.com/u/96370758?v=4?s=100" width="100px;" alt=""/><br /><sub><b>laimou01</b></sub></a><br /><a href="#infra-laimou01" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ariespan-Open/ariespan-log/commits?author=laimou01" title="Tests">⚠️</a> <a href="https://github.com/ariespan-Open/ariespan-log/commits?author=laimou01" title="Code">💻</a></td>
     <td align="center"><a href="http://www.yhsdcmd.cn"><img src="https://avatars.githubusercontent.com/u/91373993?v=4?s=100" width="100px;" alt=""/><br /><sub><b>majinqi</b></sub></a><br /><a href="#infra-majinqiawa" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ariespan-Open/ariespan-log/commits?author=majinqiawa" title="Tests">⚠️</a> <a href="https://github.com/ariespan-Open/ariespan-log/commits?author=majinqiawa" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Dedicatus5457"><img src="https://avatars.githubusercontent.com/u/78254776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dedicatus5457</b></sub></a><br /><a href="#infra-Dedicatus5457" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ariespan-Open/ariespan-log/commits?author=Dedicatus5457" title="Tests">⚠️</a> <a href="https://github.com/ariespan-Open/ariespan-log/commits?author=Dedicatus5457" title="Code">💻</a> <a href="#projectManagement-Dedicatus5457" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/CHNBUILD"><img src="https://avatars.githubusercontent.com/u/42291033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>某people</b></sub></a><br /><a href="#content-CHNBUILD" title="Content">🖋</a> <a href="#maintenance-CHNBUILD" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
