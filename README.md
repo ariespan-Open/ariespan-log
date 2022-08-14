@@ -105,6 +105,8 @@
 > 监控站更换域名为status.ariespan.cn
 #### 2022.8.10
 > 计划主站debug.ariespan.cn更换目录程序为alist弃用OneManager。待调试完毕视情况上ariespan.cn主站生产环境。
+#### 2022.8.15
+> 更换QQ群为871518160
 # 展望未来
 > 没有未来
 
