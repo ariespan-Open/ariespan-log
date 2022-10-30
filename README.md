@@ -113,6 +113,8 @@
 > 修复下载站评论区无法显示的问题(https://github.com/ariespan-Open/feedback/issues/1)
 #### 2022.9.29
 >laimou摆烂，删除“coolpad cool1（c106）资源”及目录下的所有文件（不是本来就没？
+#### 2022.10.30
+>新增Redmi k20pro(raphael)资源
 # 展望未来
 > 没有未来
 
