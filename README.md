@@ -117,8 +117,10 @@
 >新增Redmi k20pro(raphael)资源
 #### 2022.11.15
 > 在"/主盘/其他资源/"下新建“垃圾桶”，用于存放其他游客的文件
-#### 2022.12.9
-> 在"http://chat.laimou.xyz"设置了一个基于某开源webchat的聊天站（内测）
+#### 2023.1
+> 原域名(ariespan.cn)被污染，更换为ariespan.org，并重建探针status.ariespan.org。
+#### 2023/4/8
+> 在4月4日.本站主储存策略使用的od盘所属E5订阅账号被封禁，将于一个月后被删除不可用，在这期间可临时使用imflash.com.cn:2023的‘xiaomi 2s专区’备份镜像，届时主站也会挂载imflash的webdav backup临时使用。我们正在考虑迁移到其他储存。
 # 展望未来
 > 没有未来
 
