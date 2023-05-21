@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 #### 简介
-本仓库用于存放在2022年5月开始至今的ariespan.cn与备用站(shunt.ariespan.xyz)的维护日志
+本仓库用于存放在2022年5月开始至今的ariespan.org与备用站(暂时关闭)的维护日志
 
 #### 下载站管理员如何提交您的更改日志到本仓库？
 
